@@ -1,0 +1,30 @@
+img{
+
+height: 50px;
+border-radius: 20px;
+margin-top: 20px;
+
+}
+
+.logo{
+    display: flex;
+    gap: 30px;
+
+}
+
+.menu{
+    display: flex;
+    gap: 20px; 
+
+}
+
+.cont{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+}
+
+body{
+
+    di
+}
